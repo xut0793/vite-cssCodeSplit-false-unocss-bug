@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as _}from"./index-fc387432.js";const o={},s={class:"async-component-red"};function n(t,a){return c(),_("h1",s,"这是一个异步加载的组件，字体颜色是红色")}const p=e(o,[["render",n],["__scopeId","data-v-42abe320"]]);export{p as default};
